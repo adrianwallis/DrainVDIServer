@@ -1,0 +1,9 @@
+Change the ConnectionString setting under 'Application/Properties/Settings'
+Compile the program
+Copy the executable and Cassis libraries to the VDH server you want to drain
+Run as administrator
+
+The server will drain, reboot and then be back available. 
+A small issue is that users cannot reconnect to existing VDI sessions if they are disconnected.
+
+As usual this code is provided without warranty, so test/use at your own risk!
