@@ -1,0 +1,12 @@
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Drain VDI Server - Console - Public.exe.config
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Drain VDI Server - Console - Public.exe
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Drain VDI Server - Console - Public.pdb
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Drain VDI Server - Console - Public.xml
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Cassia.dll
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\bin\Debug\Cassia.xml
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain VDI Server - Console - Public.vbprojResolveAssemblyReference.cache
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain_VDI_Server___Console___Public.Resources.resources
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain VDI Server - Console - Public.vbproj.GenerateResource.Cache
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain VDI Server - Console - Public.exe
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain VDI Server - Console - Public.xml
+\\home\home\adrian.wallis\dnp\windows\Drain VDI Server - Console - Public\Drain VDI Server - Console - Public\obj\Debug\Drain VDI Server - Console - Public.pdb
